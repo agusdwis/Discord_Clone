@@ -1,0 +1,12 @@
+flask-mysqldb
+werkzeug==0.16.0
+flask
+flask-restful
+flask-sqlalchemy
+flask-migrate==2.5.3
+flask-script
+pymysql
+flask-jwt-extended==3.25.0
+requests
+pytest
+flask-cors
